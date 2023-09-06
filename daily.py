@@ -9,3 +9,4 @@ grade_points=int(grade_points)
 credit_points=OOPS_credit+AI_credit+DBMS_credit+OS_credit
 cgpa=grade_points/credit_points
 print(f"Name:{name} \nRegisterNo:{regno} \ncgpa:{cgpa:.2F} ")
+print("changed")
